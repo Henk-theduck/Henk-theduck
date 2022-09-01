@@ -1,10 +1,10 @@
 ### Henk the duck! 🦆🖥️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henk-theduck&layout=compact)](https://github.com/Henk-theduck/github-readme-stats)
+
 #
 ![Henk GitHub stats](https://github-readme-stats.vercel.app/api?username=Henk-theduck&show_icons=true&theme=tokyonight)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henk-theduck&layout=compact)](https://github.com/Henk-theduck/github-readme-stats)
 #
 ### Technologies
 
