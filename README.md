@@ -2,7 +2,7 @@
 
 
 #
-![Henk GitHub stats](https://github-readme-stats.vercel.app/api?username=Henk-theduck&show_icons=true&theme=tokyonight)
+![Henk GitHub stats](https://github-readme-stats.vercel.app/api?username=Henk-theduck&show_icons=true&theme=tokyonight&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henk-theduck&layout=compact)](https://github.com/Henk-theduck/github-readme-stats)
 #
