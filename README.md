@@ -2,9 +2,8 @@
 
 
 #
-![Henk GitHub stats](https://github-readme-stats.vercel.app/api?username=Henk-theduck&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henk-theduck&layout=compact&langs_count=7&theme=dracula)](https://github.com/Henk-theduck/github-readme-stats)
+[![Henk github stats](https://bad-apple-github-readme.vercel.app/api?username=Henk-theduck&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=tokyonight&title_color=00b3ff)](#)
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Henk-theduck&layout=compact&count_private=true&theme=tokyonight&title_color=00b3ff)](#)
 #
 ### Technologies
 
